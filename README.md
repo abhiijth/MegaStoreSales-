@@ -1,1 +1,2 @@
 # MegaStoreSales-
+`This MegaStore Sales analysis aims to extract key business insights from historical transaction data. It focuses on identifying the most profitable product categories and understanding how their performance varies across regions. The project explores sales, profit, and quantity trends over time to uncover seasonal patterns that support inventory and promotion planning. It also examines regional performance differences and assesses how shipping modes influence delivery efficiency, customer satisfaction, and profitability.`
