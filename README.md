@@ -14,7 +14,7 @@ Project Objectives
 
 Dataset
 -------
-- Source: [](https://www.kaggle.com/datasets/adamgrey88/megastore-sales-data)]
+- Source: (https://www.kaggle.com/datasets/adamgrey88/megastore-sales-data)]
 - Duration: 2 years of transactional sales data
 - Attributes include:
   - Order ID, Product, Category, Sub-Category
@@ -69,4 +69,4 @@ Future Work
 
 Contact
 -------
-For any queries, reach out at :[](abhijith2005iibe@gmail.com] or connect via LinkedIn:[](https://www.linkedin.com/in/abhijith-be-6b840532b/)
+For any queries, reach out at :[](abhijith2005iibe@gmail.com] or connect via LinkedIn:(https://www.linkedin.com/in/abhijith-be-6b840532b/)
